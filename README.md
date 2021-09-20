@@ -1,7 +1,7 @@
-Dompet tampak depan atas
+#Dompet tampak depan atas
 ![GitHub Logo](/images/depan.png)
-Dompet tampak belakang atas
+##Dompet tampak belakang atas
 
-Dompet tampak kanan atas
+###Dompet tampak kanan atas
 
-Dompet tampak kiri atas
+####Dompet tampak kiri atas
