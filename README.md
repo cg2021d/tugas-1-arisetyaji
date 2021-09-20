@@ -1,5 +1,5 @@
 #Dompet tampak depan atas
-![GitHub Logo](/images/depan.png)
+![GitHub Logo](/images/depan.jpg)
 ##Dompet tampak belakang atas
 
 ###Dompet tampak kanan atas
